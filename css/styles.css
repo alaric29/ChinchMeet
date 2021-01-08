@@ -71,7 +71,7 @@ p {
 .title-image {
   width: 60%;
   position: absolute;
-  right: 30%;
+  right: 20%;
   transform: rotate(25deg);
 }
 
@@ -160,13 +160,6 @@ p {
   }
 }
 
-/* Call to Action */
-/*
-
-.cta-button {
-  margin: 50px 10px 0;
-}
-*/
 
 /* Footer */
 
