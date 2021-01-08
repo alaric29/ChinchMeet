@@ -72,6 +72,7 @@ p {
   width: 60%;
   position: absolute;
   left: 35%;
+  transform: rotate(25%);
 }
 
 /* Download Buttons */
